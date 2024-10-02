@@ -1,0 +1,8 @@
+# static.yml
+
+# Basic configuration for your static site
+site:
+  title: "My GFX Shop"           # Your site title
+  description: "Welcome to My GFX Shop!"  # A short description of your site
+  url: "https://progamerfr1111.github.io/gfxshop1.github.io/"  # Your site URL
+  author: "Glor"             # Your name or the name of the shop
